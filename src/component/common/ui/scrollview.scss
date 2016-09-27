@@ -1,0 +1,20 @@
+.ui-pulltorefresh{
+    height:100px;
+    // transform: translate3d(0px,-100px,0px);
+    // top:-100px;
+    // position: absolute;
+    width:100%;
+    line-height: 100px;
+    text-align: center;
+    font-size:30px;
+}
+
+.ui-scrollview-content{
+    // position: relative;
+    transform: translate3d(0px,0px,0px);
+    top:0px;
+}
+
+.ui-scrollview{
+     transform: translate3d(0px,-100px,0px);
+}
